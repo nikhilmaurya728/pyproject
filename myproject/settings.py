@@ -27,7 +27,7 @@ DEBUG = False
 
 
 # Allowed hosts
-ALLOWED_HOSTS = ['*','pyproject-omega.vercel.app', 'localhost']
+ALLOWED_HOSTS = ['*','myproject-omega.vercel.app','pyproject-omega.vercel.app', 'localhost']
 
 
 
